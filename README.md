@@ -1,9 +1,18 @@
-### Hi there 👋
+# Hi, I'm Vincent
+
+<table>
+  <tr>
+    <td valign="center">
+      I am currently pursuing a career from **CAD drafting** to **software development**.
+      I am currently learning **Python** and am interested in **back-end development**.
+    <td >
+      ![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+    </td>
+  </tr>
+</table>
+
 
 <!--
-**vincentlemstra/vincentlemstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
