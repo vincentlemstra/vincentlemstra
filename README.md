@@ -1,33 +1,50 @@
-# Hi, I'm Vincent
+# <div align="center">Hi! I'm Vincent</div>  
+### <div>And I fell in love with programming automating tasks on my job so I decided to make a career switch. </div>  
+- I’m currently working on several projects to enhance my programming skills.
+- I’m currently learning Python and Django  
+<br/>  
 
-## About me
-* I am currently pursuing a career from **CAD Drafting** to **Software Development**.
-* I am currently learning **Python** and am interested in **back-end development**.
-* I love using **Django** to create websites.
+## Projects  
+* [Revit Family Downloader](https://github.com/vincentlemstra/revit_downloader)
+<br/>  
 
-## Connect with me
-<a href ="https://www.linkedin.com/in/vincent-lemstra/"><img src="https://user-images.githubusercontent.com/22345585/187474773-ab17d1da-68d3-4a6d-a274-50fa2ba939bc.png" width="35px" height="35px"></a>
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
-## Experiences
+### Frontend  
+<div>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
+<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="50" /></a>  
+</div>
 
-## Technologies
-### Languages
-<a href="https://www.w3.org/html/"><img src="https://user-images.githubusercontent.com/22345585/187476230-dcb4a95d-449c-44a1-bf46-260836d2cd88.png" width="35px" height="35px"></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html"><img src="https://user-images.githubusercontent.com/22345585/187476189-206c8e37-2f9c-44d4-8cd5-f07580969af6.png" width="35px" height="35px"></a>
-<a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/22345585/187476045-286cb13b-dafa-4f7f-917a-ea9f0bce082d.png" width="35px" height="35px"></a>
-<a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/22345585/187475655-15bbc486-7447-4439-b1e6-b083911223e8.png" width="35px" height="35px"></a>
+</td><td valign="top" width="33%">
+### Backend  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+</div>
 
-### Frameworks
+</td><td valign="top" width="33%">
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+</div>
+</td></tr></table>  
+<br/>  
 
-<a href="https://www.djangoproject.com/"><img src="https://user-images.githubusercontent.com/22345585/187498006-88ff8325-86cb-430a-bb02-bd33a8422704.jpeg" width="35px" height="35px"></a>
-
-### Tools
-<a href="https://www.postgresql.org/"><img src="https://user-images.githubusercontent.com/22345585/187502377-5f3b93ac-6c2d-4188-ac36-08d876229967.png" width="35px" height="35px"></a>
-<a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/22345585/187502897-e1ab1221-74b2-4698-b055-0ab7d6f87beb.png" width="35px" height="35px"></a>
-
-
-
-
-
-
-
+## Connect with me  
+<div>
+<a href="https://linkedin.com/in/vincentlemstra" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/vincentlemstra" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+<br/>  
