@@ -4,7 +4,7 @@ Hi 👋 My name is Vincent.
 And I fell in love with programming
 -----------------------------------
 
-While doing tedious repetitive tasks in my current job I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. The problem solving part really clicked with me. So I decided to make a career switch.
+While doing tedious repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch.
 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [vincentlemstra](http://vincentlemstra.github.io/)
