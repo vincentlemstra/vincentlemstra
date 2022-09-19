@@ -9,7 +9,7 @@ While doing tedious repetitive tasks in my last job, I reached for a programming
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio at [Coming Soon](http://vincentlemstra.github.io/)
 * ✉️  You can contact me at [vincentlemstra@gmail.com](mailto:vincentlemstra@gmail.com)
-* 🚀  I'm currently working on my portfolio
+* 🚀  I'm currently working on my Revit TypeCatalog downloader
 * 🧠  I'm learning Python and Django
 
 ### Skills
