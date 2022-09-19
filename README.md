@@ -26,15 +26,12 @@ Project made with JAZO Zevenaar bv. This app will generate a Type Catalog file f
 
 [Learn More](https://github.com/vincentlemstra/revit_downloader)
 
-
 ### Dynamo Parameter Automation
 
 [Coming Soon]()
-
 
 ### Winc Dating App
 This Dating App was created as my final project to finish my online Web Development bootcamp (WINC academy). The app will get relevant data from the user and match the user with another person based on certain preferences.
 
 [Learn More](https://github.com/vincentlemstra/winc_dating_app)
-
 
