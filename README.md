@@ -20,12 +20,13 @@ While doing tedious repetitive tasks in my last job, I reached for a programming
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-## My Work
+## Some Of My Work
 
 | <h3>Revit TypeCatalog Downloader</h3> | <h3>Dynamo Parameter Automation</h3> | 
 | :-: | :-: |
-| <img src="https://user-images.githubusercontent.com/22345585/191067470-579e4f73-8105-4e9b-9195-121bd259d14e.png" width="500"> <a href="https://github.com/vincentlemstra/revit_downloader">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191077221-aede3a3f-929d-4918-b887-7d61609daef1.png" width="500"> <a href="">Coming Soon</a> |
+| <img src="https://user-images.githubusercontent.com/22345585/191080321-83b95861-e584-47e7-b8db-9371ac06ccde.png" width="566"> <a href="https://github.com/vincentlemstra/revit_downloader">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191080234-1fb6c81c-6a31-4fe8-ad6f-a41edbc214fc.png" width="566"> <a href="">Coming Soon</a> |
 
-| <h3>Winc Dating App</h3> | <h3>Dynamo Parameter Automation</h3> | 
-| :-: | :-: |
-| <img src="https://user-images.githubusercontent.com/22345585/191067470-579e4f73-8105-4e9b-9195-121bd259d14e.png"> <a href="https://github.com/vincentlemstra/winc_dating_app">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191067470-579e4f73-8105-4e9b-9195-121bd259d14e.png"> <a href="">Coming Soon</a> |
+| <h3>Winc Dating App</h3> | <h3>Coming Soon</h3> | 
+| :-: |  :-: |
+| <img src="https://user-images.githubusercontent.com/22345585/191080749-998eda8c-a778-4f14-b846-54a76c1b801d.png" width="566"> <a href="https://github.com/vincentlemstra/winc_dating_app">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191081696-100be000-269c-4d99-9e1a-eb319d5b1b3d.jpg" width="566"> <a href="">Coming Soon</a> |
+
