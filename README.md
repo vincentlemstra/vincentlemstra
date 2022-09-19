@@ -4,10 +4,10 @@
 
 While doing tedious repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch.
 
-* I'm Based in The Netherlands
-* I'm Currently working on my [Revit TypeCatalog Downloader](https://github.com/vincentlemstra/revit_downloader)
-* And am learning Python and Django
-* You can contact me on [vincentlemstra@gmail.com](mailto:vincentlemstra@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/vincent-lemstra/)
+* I'm based in The Netherlands.
+* I'm currently working on [Revit TypeCatalog Downloader](https://github.com/vincentlemstra/revit_downloader).
+* And I'm learning Python and Django.
+* You can contact me on [vincentlemstra@gmail.com](mailto:vincentlemstra@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/vincent-lemstra/).
 
 ## My Skills
 
