@@ -21,12 +21,20 @@ While doing tedious repetitive tasks in my last job, I reached for a programming
 </p>
 
 ## Some Of My Work
+### Revit TypeCatalog Downloader
+Project made with JAZO Zevenaar bv. This app will generate a Type Catalog file for a specific Revit Family. It will receive relevant data from the user and generate the matching Type Catalog file. The purpose of this project is to help the user get the correct model and family type for their Revit project and to maintain a family library.
 
-| <h3>Revit TypeCatalog Downloader</h3> | <h3>Dynamo Parameter Automation</h3> | 
-| :-: | :-: |
-| <img src="https://user-images.githubusercontent.com/22345585/191080321-83b95861-e584-47e7-b8db-9371ac06ccde.png" width="566"> <a href="https://github.com/vincentlemstra/revit_downloader">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191080234-1fb6c81c-6a31-4fe8-ad6f-a41edbc214fc.png" width="566"> <a href="">Coming Soon</a> |
+[Learn More](https://github.com/vincentlemstra/revit_downloader)
 
-| <h3>Winc Dating App</h3> | <h3>Coming Soon</h3> | 
-| :-: |  :-: |
-| <img src="https://user-images.githubusercontent.com/22345585/191080749-998eda8c-a778-4f14-b846-54a76c1b801d.png" width="566"> <a href="https://github.com/vincentlemstra/winc_dating_app">Learn More</a> | <img src="https://user-images.githubusercontent.com/22345585/191081696-100be000-269c-4d99-9e1a-eb319d5b1b3d.jpg" width="566"> <a href="">Coming Soon</a> |
+
+### Dynamo Parameter Automation
+
+[Coming Soon]()
+
+
+### Winc Dating App
+This Dating App was created as my final project to finish my online Web Development bootcamp (WINC academy). The app will get relevant data from the user and match the user with another person based on certain preferences.
+
+[Learn More](https://github.com/vincentlemstra/winc_dating_app)
+
 
