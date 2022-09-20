@@ -26,9 +26,10 @@ Project made with JAZO Zevenaar bv. This app will generate a Type Catalog file f
 
 [Learn More](https://github.com/vincentlemstra/revit_downloader)
 
-### Dynamo Parameter Automation
+### Bulk Rename Files
+This app will automate the process of renaming multiple files in a given directory in your file system. I used this to maintain the NLRS (Nederlandse Revit Standaard) requirements of a Revit Family Library. 
 
-[Coming Soon]()
+[Learn More](https://github.com/vincentlemstra/bulk_rename_files)
 
 ### Winc Dating App
 This Dating App was created as my final project to finish my online Web Development bootcamp (WINC academy). The app will get relevant data from the user and match the user with another person based on certain preferences.
