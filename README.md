@@ -22,7 +22,7 @@ While doing tedious repetitive tasks in my last job, I reached for a programming
 
 ## Some Of My Work
 ### Revit TypeCatalog Downloader
-Project made with JAZO Zevenaar bv. This app will generate a Type Catalog file for a specific Revit Family. It will receive relevant data from the user and generate the matching Type Catalog file. The purpose of this project is to help the user get the correct model and family type for their Revit project and to maintain a family library.
+This app will generate a Type Catalog file for a specific Revit Family. It will receive relevant data from the user and generate the matching Type Catalog file. The purpose of this project is to help the user get the correct model and family type for their Revit project and to maintain a family library.
 
 [Learn More](https://github.com/vincentlemstra/revit_downloader)
 
