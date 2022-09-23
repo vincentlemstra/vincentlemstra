@@ -2,7 +2,7 @@
 
 ### And I fell in love with programming
 
-While doing tedious repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch.
+While doing repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch. I started with following a Web Development Bootcamp [Winc Academy](https://www.wincacademy.nl/#). After that, I continued my learning path online through different resources. Below you will find some general info about me, my skills, and some of my work.
 
 * I'm based in The Netherlands.
 * I'm currently working on [Revit TypeCatalog Downloader](https://github.com/vincentlemstra/revit_downloader).
@@ -27,7 +27,7 @@ This app will generate a Type Catalog file for a specific Revit Family. It will 
 [Learn More](https://github.com/vincentlemstra/revit_downloader)
 
 ### Backingtrack Merger
-This app will merge multiple audio files into 1 merged audio file. As a drummer, working with backingtracks can be a time consuming process. This app is created to automate and speed up some of the steps. 
+This app will merge multiple audio files into 1 merged audio file. As a drummer, working with backing tracks can be a time-consuming process. This app is created to automate and speed up some of the steps. 
 
 [Learn More](https://github.com/vincentlemstra/backingtrack_merger)
 
@@ -38,7 +38,7 @@ This app will automate the process of renaming multiple files in a given directo
 
 
 ### Winc Dating App
-This Dating App was created as my final project to finish my online Web Development bootcamp (WINC academy). The app will get relevant data from the user and match the user with another person based on certain preferences.
+This Dating App was created as my final project to finish my online Web Development Bootcamp (WINC academy). The app will get relevant data from the user and match the user with another person based on certain preferences.
 
 [Learn More](https://github.com/vincentlemstra/winc_dating_app)
 
