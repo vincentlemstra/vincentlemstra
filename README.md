@@ -5,7 +5,7 @@
 While doing repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch. I started with following a Web Development Bootcamp [Winc Academy](https://www.wincacademy.nl/#). After that, I continued my learning path online through different resources. Below you will find some general info about me, my skills, and some of my work.
 
 * I'm based in The Netherlands.
-* I'm currently working on [Revit TypeCatalog Downloader](https://github.com/vincentlemstra/revit_downloader).
+* I'm currently working on the Harvard [CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
 * And I'm learning Python and Django.
 * You can contact me on [vincentlemstra@gmail.com](mailto:vincentlemstra@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/vincent-lemstra/).
 
