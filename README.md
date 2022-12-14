@@ -1,13 +1,6 @@
 # Hi, I'm Vincent.
 
-### And I fell in love with programming
-
-While doing repetitive tasks in my last job, I reached for a programming solution (using Dynamo with Python scripts in Revit). And I loved it. So I decided to make a career switch. I started with following a Web Development Bootcamp [Winc Academy](https://www.wincacademy.nl/#). After that, I continued my learning path online through different resources. Below you will find some general info about me, my skills, and some of my work.
-
-* I'm based in The Netherlands.
-* I'm currently working on the [Harvard CS50 Course](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0).
-* And I'm learning Python and Django.
-* You can contact me on [vincentlemstra@gmail.com](mailto:vincentlemstra@gmail.com) or my [LinkedIn](https://www.linkedin.com/in/vincent-lemstra/).
+### And I like programming.
 
 ## My Skills
 
@@ -17,20 +10,9 @@ While doing repetitive tasks in my last job, I reached for a programming solutio
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
 </p>
 
 ## Some Of My Work
-### Revit TypeCatalog Downloader
-This app will generate a Type Catalog file for a specific Revit Family. It will receive relevant data from the user and generate the matching Type Catalog file. The purpose of this project is to help the user get the correct model and family type for their Revit project and to maintain a family library.
-
-[Learn More](https://github.com/vincentlemstra/revit_downloader)
-
 ### Backingtrack Merger
 This app will merge multiple audio files into 1 merged audio file. As a drummer, working with backing tracks can be a time-consuming process. This app is created to automate and speed up some of the steps. 
 
