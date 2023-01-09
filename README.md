@@ -15,7 +15,7 @@
 </p>
 
 ## Some Of My Work
-### Backingtrack Merger
+### PHP Webshop
 During my learning period at Educom I created a PHP webshop. 
 
 [Learn More](https://github.com/vincentlemstra/PHP_WEBSHOP)
