@@ -16,9 +16,9 @@
 
 ## Some Of My Work
 ### Backingtrack Merger
-This app will merge multiple audio files into 1 merged audio file. As a drummer, working with backing tracks can be a time-consuming process. This app is created to automate and speed up some of the steps. 
+During my learning period at Educom I created a PHP webshop. 
 
-[Learn More](https://github.com/vincentlemstra/backingtrack_merger)
+[Learn More](https://github.com/vincentlemstra/PHP_WEBSHOP)
 
 ### Bulk Rename Files
 This app will automate the process of renaming multiple files in a given directory in your file system. I used this to maintain the NLRS (Nederlandse Revit Standaard) requirements of a Revit Family Library. 
